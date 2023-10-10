@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b8a983-f09b-4b61-95d2-79647f80a40e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/User/UserRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/User/UserModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/User/UserModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/User/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/User/UserController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +124,7 @@
       <workItem from="1696894651413" duration="530000" />
       <workItem from="1696895250220" duration="97000" />
       <workItem from="1696965346827" duration="4198000" />
-      <workItem from="1696973737940" duration="3225000" />
+      <workItem from="1696973737940" duration="5307000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project">
       <option name="closed" value="true" />
@@ -151,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696974426207</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Created user repository interface Jpa">
+      <option name="closed" value="true" />
+      <created>1696976991784</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696976991784</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +178,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created Project" />
     <MESSAGE value="Added JPA and H2 database dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added JPA and H2 database dependencies" />
+    <MESSAGE value="Created user repository interface Jpa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created user repository interface Jpa" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
