@@ -10,10 +10,12 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("/tasks")
 public class TaskController {
     @Autowired
-    private  TaskRepository taskRepository;
+    private TaskRepository taskRepository;
+
     @PostMapping("/")
-    public TaskModel create(@RequestBody TaskModel taskModel){
-      var task = this.taskRepository.save(taskModel);
-      return task ;
+    public TaskModel create(@RequestBody TaskModel taskModel) {
+        System.out.println("chegou no controller");
+        var task = this.taskRepository.save(taskModel);
+        return task;
     }
 }
