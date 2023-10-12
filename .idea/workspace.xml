@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b8a983-f09b-4b61-95d2-79647f80a40e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/task/TaskModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/task/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/task/TaskRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -126,7 +127,7 @@
       <workItem from="1696965346827" duration="4198000" />
       <workItem from="1696973737940" duration="9896000" />
       <workItem from="1697071528853" duration="7284000" />
-      <workItem from="1697118896312" duration="1393000" />
+      <workItem from="1697118896312" duration="2483000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project">
       <option name="closed" value="true" />
@@ -192,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697073041315</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="created task table">
+      <option name="closed" value="true" />
+      <created>1697120319017</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1697120319017</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,7 +225,8 @@
     <MESSAGE value="Created method to save patient info" />
     <MESSAGE value="Changed method to ResponseEntity" />
     <MESSAGE value="Created method to password encryption" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created method to password encryption" />
+    <MESSAGE value="created task table" />
+    <option name="LAST_COMMIT_MESSAGE" value="created task table" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
