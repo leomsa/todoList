@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b8a983-f09b-4b61-95d2-79647f80a40e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/User/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/User/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/User/UserModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/User/UserModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/User/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/User/UserRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +126,8 @@
       <workItem from="1696894651413" duration="530000" />
       <workItem from="1696895250220" duration="97000" />
       <workItem from="1696965346827" duration="4198000" />
-      <workItem from="1696973737940" duration="9676000" />
+      <workItem from="1696973737940" duration="9896000" />
+      <workItem from="1697071528853" duration="1446000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project">
       <option name="closed" value="true" />
@@ -176,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696979510096</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Changed method to ResponseEntity">
+      <option name="closed" value="true" />
+      <created>1696986863209</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1696986863209</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +207,8 @@
     <MESSAGE value="Added JPA and H2 database dependencies" />
     <MESSAGE value="Created user repository interface Jpa" />
     <MESSAGE value="Created method to save patient info" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created method to save patient info" />
+    <MESSAGE value="Changed method to ResponseEntity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed method to ResponseEntity" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
