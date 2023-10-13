@@ -130,7 +130,7 @@
       <workItem from="1697118896312" duration="4806000" />
       <workItem from="1697125745929" duration="60000" />
       <workItem from="1697136476785" duration="601000" />
-      <workItem from="1697153438082" duration="3322000" />
+      <workItem from="1697153438082" duration="5096000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project">
       <option name="closed" value="true" />
@@ -220,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697125794136</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Implementation o decoder password to basic auth">
+      <option name="closed" value="true" />
+      <created>1697156941122</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1697156941122</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +255,8 @@
     <MESSAGE value="created task table" />
     <MESSAGE value="created task controller" />
     <MESSAGE value="Created filter for user permissions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created filter for user permissions" />
+    <MESSAGE value="Implementation o decoder password to basic auth" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementation o decoder password to basic auth" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
