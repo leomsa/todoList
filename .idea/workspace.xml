@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b8a983-f09b-4b61-95d2-79647f80a40e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/utils/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/task/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/task/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +76,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2WWsquHvZbNoHLASwjDlmoHcNeK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -131,7 +136,7 @@
       <workItem from="1697125745929" duration="60000" />
       <workItem from="1697136476785" duration="601000" />
       <workItem from="1697153438082" duration="5096000" />
-      <workItem from="1697903492327" duration="6654000" />
+      <workItem from="1697903492327" duration="10830000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project">
       <option name="closed" value="true" />
@@ -269,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697910830665</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="created Put method to update task of user">
+      <option name="closed" value="true" />
+      <created>1697911178913</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1697911178913</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -313,7 +326,8 @@
     <MESSAGE value="start date check, must be before end date." />
     <MESSAGE value="Added get method to recovery tasks by userId" />
     <MESSAGE value="changed .equals to startWith to recovery Path with idTask" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed .equals to startWith to recovery Path with idTask" />
+    <MESSAGE value="created Put method to update task of user" />
+    <option name="LAST_COMMIT_MESSAGE" value="created Put method to update task of user" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -321,17 +335,17 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/todolist/src/main/java/com/todolist/task/TaskController.java</url>
-          <line>43</line>
+          <line>44</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/todolist/src/main/java/com/todolist/task/TaskController.java</url>
-          <line>41</line>
+          <line>42</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/todolist/src/main/java/com/todolist/task/TaskController.java</url>
-          <line>22</line>
+          <line>23</line>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
