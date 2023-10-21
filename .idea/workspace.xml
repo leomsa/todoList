@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="03b8a983-f09b-4b61-95d2-79647f80a40e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/filter/FilterTaskAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/filter/FilterTaskAuth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/task/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/task/TaskController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +29,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
@@ -243,6 +243,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -268,6 +279,22 @@
     <MESSAGE value="implemented Basic auth just into tasks route" />
     <option name="LAST_COMMIT_MESSAGE" value="implemented Basic auth just into tasks route" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/todolist/src/main/java/com/todolist/task/TaskController.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/todolist/src/main/java/com/todolist/task/TaskController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
