@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b8a983-f09b-4b61-95d2-79647f80a40e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/task/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/task/TaskController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +131,7 @@
       <workItem from="1697125745929" duration="60000" />
       <workItem from="1697136476785" duration="601000" />
       <workItem from="1697153438082" duration="5096000" />
-      <workItem from="1697903492327" duration="6119000" />
+      <workItem from="1697903492327" duration="6654000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project">
       <option name="closed" value="true" />
@@ -261,7 +261,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697905448658</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="changed .equals to startWith to recovery Path with idTask">
+      <option name="closed" value="true" />
+      <created>1697910830665</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1697910830665</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -304,7 +312,8 @@
     <MESSAGE value="implemented data creation verify" />
     <MESSAGE value="start date check, must be before end date." />
     <MESSAGE value="Added get method to recovery tasks by userId" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added get method to recovery tasks by userId" />
+    <MESSAGE value="changed .equals to startWith to recovery Path with idTask" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed .equals to startWith to recovery Path with idTask" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
