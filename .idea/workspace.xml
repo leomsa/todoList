@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03b8a983-f09b-4b61-95d2-79647f80a40e" name="Changes" comment="" />
+    <list default="true" id="03b8a983-f09b-4b61-95d2-79647f80a40e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/User/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/User/UserController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +141,7 @@
       <workItem from="1697136476785" duration="601000" />
       <workItem from="1697153438082" duration="5096000" />
       <workItem from="1697903492327" duration="14542000" />
-      <workItem from="1698156226173" duration="3550000" />
+      <workItem from="1698156226173" duration="4850000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project">
       <option name="closed" value="true" />
@@ -313,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698162764070</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Changed .getMessage to not parse JSON">
+      <created>1698163257138</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1698163257138</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -362,7 +373,8 @@
     <MESSAGE value="Added validation for change task by owner taskId and &#10;validatios for existing task." />
     <MESSAGE value="Created exception for tittle &gt; 50 characters" />
     <MESSAGE value="Added Execption handler class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Execption handler class" />
+    <MESSAGE value="Changed .getMessage to not parse JSON" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed .getMessage to not parse JSON" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
