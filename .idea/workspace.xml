@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b8a983-f09b-4b61-95d2-79647f80a40e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/todolist/src/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todolist/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/User/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/todolist/src/main/java/com/todolist/User/UserController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,11 +105,14 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Docker.src/Dockerfile">
     <configuration name="TodolistApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="todolist" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.todolist.TodolistApplication" />
@@ -117,6 +120,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="src/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="sourceFilePath" value="todolist/src/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.src/Dockerfile" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -141,7 +157,7 @@
       <workItem from="1697136476785" duration="601000" />
       <workItem from="1697153438082" duration="5096000" />
       <workItem from="1697903492327" duration="14542000" />
-      <workItem from="1698156226173" duration="4850000" />
+      <workItem from="1698156226173" duration="6261000" />
     </task>
     <task id="LOCAL-00001" summary="Created Project">
       <option name="closed" value="true" />
@@ -324,7 +340,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698163257138</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Added devTools dependency">
+      <created>1698164457171</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1698164457171</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,7 +397,8 @@
     <MESSAGE value="Created exception for tittle &gt; 50 characters" />
     <MESSAGE value="Added Execption handler class" />
     <MESSAGE value="Changed .getMessage to not parse JSON" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed .getMessage to not parse JSON" />
+    <MESSAGE value="Added devTools dependency" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added devTools dependency" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
