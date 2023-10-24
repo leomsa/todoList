@@ -1,5 +1,4 @@
 # Documentação da API
-
 Esta API fornece recursos para gerenciar tarefas e usuários em um aplicativo de lista de tarefas.
 
 ## Endpoints
